@@ -1,0 +1,18 @@
+{
+    "name": "teste/hello-world",
+    "description": "First package with Composer and Packagist",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Teste teste",
+            "email": "teste@teste.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    	"psr-0": {
+    		"HelloWorld": "src/"
+    	}
+    }
+}
