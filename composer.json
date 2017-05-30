@@ -14,5 +14,7 @@
     	"psr-0": {
     		"HelloWorld": "src/"
     	}
+    },
+    "require-dev": {
     }
 }
